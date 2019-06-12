@@ -1,0 +1,6 @@
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\bin\Debug\krtest.exe.config
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\bin\Debug\krtest.exe
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\bin\Debug\krtest.pdb
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\obj\Debug\krtest.csprojResolveAssemblyReference.cache
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\obj\Debug\krtest.exe
+c:\users\chime\documents\visual studio 2015\Projects\krtest\krtest\obj\Debug\krtest.pdb
